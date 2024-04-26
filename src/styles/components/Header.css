@@ -1,0 +1,35 @@
+header {
+  background-color: #eee1ee;
+  padding: 20px;
+  text-align: center;
+  border-radius: 15px; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #ff7eb9;
+  margin: 0;
+  font-size: 1.5em;
+  font-family: "Arial", sans-serif;
+}
+
+/* Estilos para la navegación */
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display:inline-flex;
+  margin-right: 15px;
+}
+
+nav ul li a {
+  color: #ff7eb9; /* Rosa vibrante para los enlaces */
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease, transform 0.3s ease;
+}

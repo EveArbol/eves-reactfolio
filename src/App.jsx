@@ -1,18 +1,28 @@
 /* eslint-disable no-unused-vars */
 
-import React from 'react'
 import './App.css'
+import AboutMeSection from './components/AboutMeSection';
+import Header from './components/Header';
+import ProjectsSection from './components/ProyectsSection';
+import React from 'react'
+import Footer from './components/Footer';
 
 function App() {
   
 
   return (
     <>
-
-      <h1>Eve's ReactFolio</h1>
-      
-    </>
-  )
+      <Header />
+      <main>
+        <AboutMeSection />
+        <ProjectsSection />
+      </main>
+      <footer>
+        <Footer />
+      </footer>
+      </>
+  );
 }
+
 
 export default App
