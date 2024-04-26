@@ -9,7 +9,7 @@ function App() {
   return (
     <>
 
-      <h1>Eves ReactFolio</h1>
+      <h1>Eve's ReactFolio</h1>
       
     </>
   )
