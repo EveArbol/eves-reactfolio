@@ -30,9 +30,7 @@ Yarn: Gestor de paquetes rápido, fiable y seguro para aplicaciones Node.js.
 ## Licencia
 Este proyecto está bajo la licencia MIT.
 
-
-   ```bash
-   git clone https://github.com/EveArbol/eves-reactfolio.git
+git clone https://github.com/EveArbol/eves-reactfolio.git
 
 
 Currently, two official plugins are available:
